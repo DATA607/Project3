@@ -26,7 +26,7 @@ urlfn <- function(i) {
   url <- paste("https://www.seek.com.au/data-scientist-jobs?page=", i, sep="")
   return(url)
 }
-mainURLs <- sapply(3:3, urlfn)
+mainURLs <- sapply(2:2, urlfn)
 
 # Main Table
 allPagesCtr <- 1
@@ -38,7 +38,7 @@ for(mainURL in mainURLs) {
   jsonNodes <- getNodeSet(htmlParse(mainContent), "//script[@type='application/ld+json']/text()")
   len <- length(jsonNodes)
   
-  listC <- c(1:3,5:13,16:len)
+  listC <- c(1:len)
   mainDF <- ldply(listC, function(i) {
     print(i)
     #class(jsonNodes[[1]])

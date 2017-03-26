@@ -19,5 +19,4 @@ MATLAB
 SAS
  R 
 Modelling
-(C++)
 Phd

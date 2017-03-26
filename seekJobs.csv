@@ -1,426 +1,461 @@
 "","detailUrl","jobTitle","company","location","date","Salary From","Salary To","Id","Skill","Count"
-"1","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",1,"Python",0
-"2","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",2,"programming",0
-"3","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",3,"analytics",2
-"4","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",4,"mathematics",0
-"5","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",5,"machine learning",0
-"6","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",6,"team",6
-"7","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",7,"Cooperation",0
-"8","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",8,"statistics",0
-"9","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",9,"mathematics",0
-"10","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",10,"SQL",0
-"11","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",11,"communication",0
-"12","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",12,"big data",0
-"13","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",13,"design",1
-"14","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",14,"visualization",0
-"15","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",15,"Hadoop",0
-"16","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",16,"Java",1
-"17","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",17,"research",18
-"18","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",18,"creative",0
-"19","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",19,"MATLAB",0
-"20","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",20,"predictive analytics",0
-"21","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",21,"SAS",0
-"22","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",22," R ",0
-"23","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",23," R. ",0
-"24","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",24,"Modelling",0
-"25","https://www.seek.com.au/job/33061618","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",25,"C++",109
-"26","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",26,"Python",0
-"27","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",27,"programming",0
-"28","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",28,"analytics",2
-"29","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",29,"mathematics",0
-"30","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",30,"machine learning",0
-"31","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",31,"team",6
-"32","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",32,"Cooperation",0
-"33","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",33,"statistics",0
-"34","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",34,"mathematics",0
-"35","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",35,"SQL",0
-"36","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",36,"communication",0
-"37","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",37,"big data",0
-"38","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",38,"design",1
-"39","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",39,"visualization",0
-"40","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",40,"Hadoop",0
-"41","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",41,"Java",1
-"42","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",42,"research",18
-"43","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",43,"creative",0
-"44","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",44,"MATLAB",0
-"45","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",45,"predictive analytics",0
-"46","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",46,"SAS",0
-"47","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",47," R ",0
-"48","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",48," R. ",0
-"49","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",49,"Modelling",0
-"50","https://www.seek.com.au/job/33061617","Manager, Imaging & Quantitative Analysis / Senior Scientist","Australian Nuclear Science and Technology Organisation","Sydney","2017-03-20T06:34:16Z","NA","NA",50,"C++",110
-"51","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",51,"Python",0
-"52","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",52,"programming",0
-"53","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",53,"analytics",2
-"54","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",54,"mathematics",0
-"55","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",55,"machine learning",0
-"56","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",56,"team",0
-"57","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",57,"Cooperation",0
-"58","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",58,"statistics",0
-"59","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",59,"mathematics",0
-"60","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",60,"SQL",0
-"61","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",61,"communication",1
-"62","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",62,"big data",0
-"63","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",63,"design",0
-"64","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",64,"visualization",0
-"65","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",65,"Hadoop",0
-"66","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",66,"Java",0
-"67","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",67,"research",0
-"68","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",68,"creative",0
-"69","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",69,"MATLAB",0
-"70","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",70,"predictive analytics",0
-"71","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",71,"SAS",7
-"72","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",72," R ",0
-"73","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",73," R. ",0
-"74","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",74,"Modelling",0
-"75","https://www.seek.com.au/job/33088067","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-23T03:15:09Z","NA","NA",75,"C++",111
-"76","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",76,"Python",5
-"77","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",77,"programming",0
-"78","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",78,"analytics",2
-"79","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",79,"mathematics",0
-"80","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",80,"machine learning",0
-"81","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",81,"team",3
-"82","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",82,"Cooperation",0
-"83","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",83,"statistics",0
-"84","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",84,"mathematics",0
-"85","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",85,"SQL",0
-"86","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",86,"communication",1
-"87","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",87,"big data",0
-"88","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",88,"design",0
-"89","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",89,"visualization",0
-"90","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",90,"Hadoop",0
-"91","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",91,"Java",0
-"92","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",92,"research",0
-"93","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",93,"creative",0
-"94","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",94,"MATLAB",0
-"95","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",95,"predictive analytics",0
-"96","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",96,"SAS",0
-"97","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",97," R ",0
-"98","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",98," R. ",0
-"99","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",99,"Modelling",0
-"100","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",100,"C++",115
-"101","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",101,"Python",1
-"102","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",102,"programming",0
-"103","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",103,"analytics",2
-"104","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",104,"mathematics",0
-"105","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",105,"machine learning",0
-"106","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",106,"team",1
-"107","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",107,"Cooperation",0
-"108","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",108,"statistics",0
-"109","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",109,"mathematics",0
-"110","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",110,"SQL",0
-"111","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",111,"communication",1
-"112","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",112,"big data",0
-"113","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",113,"design",0
-"114","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",114,"visualization",0
-"115","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",115,"Hadoop",0
-"116","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",116,"Java",0
-"117","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",117,"research",0
-"118","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",118,"creative",0
-"119","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",119,"MATLAB",0
-"120","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",120,"predictive analytics",0
-"121","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",121,"SAS",0
-"122","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",122," R ",0
-"123","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",123," R. ",0
-"124","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",124,"Modelling",0
-"125","https://www.seek.com.au/job/33069333","Providing BI through - Data Science and Analytics - 6month contract","Tardis Group","Melbourne","2017-03-21T04:01:05Z","NA","NA",125,"C++",115
-"126","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",126,"Python",1
-"127","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",127,"programming",0
-"128","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",128,"analytics",2
-"129","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",129,"mathematics",0
-"130","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",130,"machine learning",0
-"131","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",131,"team",4
-"132","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",132,"Cooperation",0
-"133","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",133,"statistics",0
-"134","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",134,"mathematics",0
-"135","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",135,"SQL",2
-"136","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",136,"communication",2
-"137","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",137,"big data",0
-"138","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",138,"design",1
-"139","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",139,"visualization",0
-"140","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",140,"Hadoop",0
-"141","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",141,"Java",0
-"142","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",142,"research",0
-"143","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",143,"creative",0
-"144","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",144,"MATLAB",0
-"145","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",145,"predictive analytics",0
-"146","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",146,"SAS",0
-"147","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",147," R ",0
-"148","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",148," R. ",0
-"149","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",149,"Modelling",0
-"150","https://www.seek.com.au/job/33069202","Data Analyst","Finite IT Recruitment Solutions","Sydney","2017-03-21T03:59:21Z","NA","NA",150,"C++",109
-"151","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",151,"Python",4
-"152","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",152,"programming",0
-"153","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",153,"analytics",5
-"154","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",154,"mathematics",0
-"155","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",155,"machine learning",0
-"156","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",156,"team",1
-"157","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",157,"Cooperation",0
-"158","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",158,"statistics",0
-"159","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",159,"mathematics",0
-"160","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",160,"SQL",0
-"161","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",161,"communication",0
-"162","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",162,"big data",0
-"163","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",163,"design",0
-"164","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",164,"visualization",0
-"165","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",165,"Hadoop",11
-"166","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",166,"Java",3
-"167","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",167,"research",0
-"168","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",168,"creative",0
-"169","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",169,"MATLAB",0
-"170","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",170,"predictive analytics",0
-"171","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",171,"SAS",0
-"172","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",172," R ",1
-"173","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",173," R. ",3
-"174","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",174,"Modelling",0
-"175","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",175,"C++",119
-"176","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",176,"Python",0
-"177","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",177,"programming",0
-"178","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",178,"analytics",2
-"179","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",179,"mathematics",0
-"180","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",180,"machine learning",0
-"181","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",181,"team",4
-"182","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",182,"Cooperation",0
-"183","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",183,"statistics",0
-"184","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",184,"mathematics",0
-"185","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",185,"SQL",0
-"186","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",186,"communication",1
-"187","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",187,"big data",0
-"188","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",188,"design",2
-"189","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",189,"visualization",0
-"190","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",190,"Hadoop",0
-"191","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",191,"Java",0
-"192","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",192,"research",0
-"193","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",193,"creative",0
-"194","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",194,"MATLAB",0
-"195","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",195,"predictive analytics",0
-"196","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",196,"SAS",0
-"197","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",197," R ",0
-"198","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",198," R. ",0
-"199","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",199,"Modelling",0
-"200","https://www.seek.com.au/job/32930845","Quality Control Scientist - Animal Health","Merck Sharp & Dohme","Bendigo, Goldfields & Macedon Ranges","2017-03-17T05:13:25Z","NA","NA",200,"C++",116
-"201","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",201,"Python",0
-"202","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",202,"programming",0
-"203","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",203,"analytics",2
-"204","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",204,"mathematics",0
-"205","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",205,"machine learning",0
-"206","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",206,"team",3
-"207","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",207,"Cooperation",0
-"208","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",208,"statistics",0
-"209","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",209,"mathematics",0
-"210","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",210,"SQL",0
-"211","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",211,"communication",2
-"212","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",212,"big data",0
-"213","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",213,"design",0
-"214","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",214,"visualization",0
-"215","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",215,"Hadoop",0
-"216","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",216,"Java",0
-"217","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",217,"research",1
-"218","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",218,"creative",0
-"219","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",219,"MATLAB",0
-"220","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",220,"predictive analytics",0
-"221","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",221,"SAS",0
-"222","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",222," R ",0
-"223","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",223," R. ",0
-"224","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",224,"Modelling",0
-"225","https://www.seek.com.au/job/33026817","Experienced Scientist","Silliker Australia Pty Ltd","Sydney","2017-03-15T02:35:50Z","NA","NA",225,"C++",112
-"226","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",226,"Python",1
-"227","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",227,"programming",0
-"228","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",228,"analytics",4
-"229","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",229,"mathematics",0
-"230","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",230,"machine learning",1
-"231","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",231,"team",3
-"232","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",232,"Cooperation",0
-"233","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",233,"statistics",1
-"234","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",234,"mathematics",0
-"235","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",235,"SQL",1
-"236","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",236,"communication",0
-"237","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",237,"big data",0
-"238","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",238,"design",0
-"239","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",239,"visualization",0
-"240","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",240,"Hadoop",0
-"241","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",241,"Java",0
-"242","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",242,"research",1
-"243","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",243,"creative",0
-"244","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",244,"MATLAB",0
-"245","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",245,"predictive analytics",1
-"246","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",246,"SAS",0
-"247","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",247," R ",0
-"248","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",248," R. ",1
-"249","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",249,"Modelling",0
-"250","https://www.seek.com.au/job/33052051","Data Science Lead","Marshall McAdam","Melbourne","2017-03-18T03:44:49Z","NA","NA",250,"C++",109
-"251","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",251,"Python",0
-"252","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",252,"programming",0
-"253","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",253,"analytics",2
-"254","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",254,"mathematics",0
-"255","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",255,"machine learning",0
-"256","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",256,"team",2
-"257","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",257,"Cooperation",0
-"258","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",258,"statistics",0
-"259","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",259,"mathematics",0
-"260","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",260,"SQL",0
-"261","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",261,"communication",0
-"262","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",262,"big data",0
-"263","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",263,"design",0
-"264","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",264,"visualization",0
-"265","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",265,"Hadoop",0
-"266","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",266,"Java",0
-"267","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",267,"research",0
-"268","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",268,"creative",0
-"269","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",269,"MATLAB",0
-"270","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",270,"predictive analytics",0
-"271","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",271,"SAS",0
-"272","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",272," R ",0
-"273","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",273," R. ",0
-"274","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",274,"Modelling",0
-"275","https://www.seek.com.au/job/33021320","Senior Scientist ","Kelly Scientific Resources","Perth","2017-03-14T07:58:13Z","NA","NA",275,"C++",105
-"276","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",276,"Python",0
-"277","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",277,"programming",0
-"278","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",278,"analytics",2
-"279","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",279,"mathematics",0
-"280","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",280,"machine learning",0
-"281","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",281,"team",5
-"282","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",282,"Cooperation",0
-"283","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",283,"statistics",0
-"284","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",284,"mathematics",0
-"285","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",285,"SQL",0
-"286","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",286,"communication",1
-"287","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",287,"big data",0
-"288","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",288,"design",1
-"289","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",289,"visualization",0
-"290","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",290,"Hadoop",0
-"291","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",291,"Java",0
-"292","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",292,"research",1
-"293","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",293,"creative",0
-"294","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",294,"MATLAB",0
-"295","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",295,"predictive analytics",0
-"296","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",296,"SAS",0
-"297","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",297," R ",0
-"298","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",298," R. ",0
-"299","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",299,"Modelling",0
-"300","https://www.seek.com.au/job/33020172","Environment Engineer/Scientist","Cardno Construction Sciences","Brisbane","2017-03-14T06:06:59Z","NA","NA",300,"C++",119
-"301","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",301,"Python",0
-"302","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",302,"programming",0
-"303","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",303,"analytics",2
-"304","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",304,"mathematics",0
-"305","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",305,"machine learning",0
-"306","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",306,"team",2
-"307","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",307,"Cooperation",0
-"308","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",308,"statistics",0
-"309","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",309,"mathematics",0
-"310","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",310,"SQL",2
-"311","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",311,"communication",0
-"312","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",312,"big data",0
-"313","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",313,"design",0
-"314","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",314,"visualization",0
-"315","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",315,"Hadoop",1
-"316","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",316,"Java",2
-"317","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",317,"research",0
-"318","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",318,"creative",0
-"319","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",319,"MATLAB",0
-"320","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",320,"predictive analytics",0
-"321","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",321,"SAS",0
-"322","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",322," R ",0
-"323","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",323," R. ",0
-"324","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",324,"Modelling",0
-"325","https://www.seek.com.au/job/33048613","Data Engineer - Spark, Scala, Hadoop, Kafka -  NV1 security clearance required","Recruitment Hive","Sydney","2017-03-17T05:47:08Z","NA","NA",325,"C++",114
-"326","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",326,"Python",2
-"327","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",327,"programming",2
-"328","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",328,"analytics",3
-"329","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",329,"mathematics",0
-"330","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",330,"machine learning",0
-"331","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",331,"team",2
-"332","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",332,"Cooperation",0
-"333","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",333,"statistics",0
-"334","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",334,"mathematics",0
-"335","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",335,"SQL",0
-"336","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",336,"communication",2
-"337","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",337,"big data",2
-"338","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",338,"design",0
-"339","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",339,"visualization",0
-"340","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",340,"Hadoop",3
-"341","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",341,"Java",2
-"342","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",342,"research",0
-"343","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",343,"creative",0
-"344","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",344,"MATLAB",0
-"345","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",345,"predictive analytics",0
-"346","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",346,"SAS",0
-"347","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",347," R ",0
-"348","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",348," R. ",2
-"349","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",349,"Modelling",0
-"350","https://www.seek.com.au/job/33046776","Data Engineer","Datasource Services Pty Ltd","Sydney","2017-03-17T04:01:18Z","NA","NA",350,"C++",112
-"351","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",351,"Python",0
-"352","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",352,"programming",0
-"353","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",353,"analytics",2
-"354","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",354,"mathematics",0
-"355","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",355,"machine learning",0
-"356","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",356,"team",4
-"357","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",357,"Cooperation",0
-"358","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",358,"statistics",0
-"359","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",359,"mathematics",0
-"360","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",360,"SQL",2
-"361","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",361,"communication",0
-"362","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",362,"big data",0
-"363","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",363,"design",0
-"364","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",364,"visualization",0
-"365","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",365,"Hadoop",1
-"366","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",366,"Java",2
-"367","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",367,"research",0
-"368","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",368,"creative",0
-"369","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",369,"MATLAB",0
-"370","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",370,"predictive analytics",0
-"371","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",371,"SAS",0
-"372","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",372," R ",0
-"373","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",373," R. ",0
-"374","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",374,"Modelling",0
-"375","https://www.seek.com.au/job/33044918","Data Engineer","Interactiveinc  PTY LTD","Sydney","2017-03-17T02:01:10Z","NA","NA",375,"C++",112
-"376","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",376,"Python",1
-"377","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",377,"programming",1
-"378","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",378,"analytics",2
-"379","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",379,"mathematics",1
-"380","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",380,"machine learning",0
-"381","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",381,"team",2
-"382","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",382,"Cooperation",0
-"383","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",383,"statistics",1
-"384","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",384,"mathematics",1
-"385","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",385,"SQL",0
-"386","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",386,"communication",0
-"387","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",387,"big data",0
-"388","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",388,"design",1
-"389","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",389,"visualization",0
-"390","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",390,"Hadoop",0
-"391","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",391,"Java",0
-"392","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",392,"research",7
-"393","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",393,"creative",0
-"394","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",394,"MATLAB",0
-"395","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",395,"predictive analytics",0
-"396","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",396,"SAS",0
-"397","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",397," R ",0
-"398","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",398," R. ",1
-"399","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",399,"Modelling",0
-"400","https://www.seek.com.au/job/33033263","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",400,"C++",119
-"401","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",401,"Python",1
-"402","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",402,"programming",1
-"403","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",403,"analytics",2
-"404","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",404,"mathematics",1
-"405","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",405,"machine learning",0
-"406","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",406,"team",2
-"407","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",407,"Cooperation",0
-"408","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",408,"statistics",1
-"409","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",409,"mathematics",1
-"410","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",410,"SQL",0
-"411","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",411,"communication",0
-"412","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",412,"big data",0
-"413","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",413,"design",1
-"414","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",414,"visualization",0
-"415","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",415,"Hadoop",0
-"416","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",416,"Java",0
-"417","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",417,"research",7
-"418","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",418,"creative",0
-"419","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",419,"MATLAB",0
-"420","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",420,"predictive analytics",0
-"421","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",421,"SAS",0
-"422","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",422," R ",0
-"423","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",423," R. ",1
-"424","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",424,"Modelling",0
-"425","https://www.seek.com.au/job/33033264","Research Scientist - Environmental Statistician","CSIRO","Brisbane","2017-03-15T22:57:20Z","NA","NA",425,"C++",119
+"1","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",1,"Python",1
+"2","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",2,"programming",0
+"3","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",3,"analytics",2
+"4","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",4,"mathematics",0
+"5","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",5,"machine learning",1
+"6","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",6,"team",2
+"7","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",7,"Cooperation",0
+"8","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",8,"statistics",0
+"9","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",9,"SQL",0
+"10","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",10,"communication",1
+"11","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",11,"big data",0
+"12","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",12,"design",0
+"13","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",13,"visualization",0
+"14","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",14,"Hadoop",1
+"15","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",15,"Java",0
+"16","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",16,"research",0
+"17","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",17,"creative",0
+"18","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",18,"MATLAB",0
+"19","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",19,"SAS",0
+"20","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",20," R ",0
+"21","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",21,"Modelling",0
+"22","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",22,"(C++)",106
+"23","https://www.seek.com.au/job/33028220","Data Scientist","Charterhouse","Melbourne","2017-03-15T04:01:41Z","NA","NA",23,"Phd",0
+"24","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",24,"Python",0
+"25","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",25,"programming",0
+"26","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",26,"analytics",3
+"27","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",27,"mathematics",1
+"28","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",28,"machine learning",0
+"29","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",29,"team",0
+"30","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",30,"Cooperation",0
+"31","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",31,"statistics",0
+"32","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",32,"SQL",0
+"33","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",33,"communication",4
+"34","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",34,"big data",0
+"35","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",35,"design",0
+"36","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",36,"visualization",0
+"37","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",37,"Hadoop",0
+"38","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",38,"Java",0
+"39","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",39,"research",2
+"40","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",40,"creative",1
+"41","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",41,"MATLAB",0
+"42","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",42,"SAS",0
+"43","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",43," R ",0
+"44","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",44,"Modelling",0
+"45","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",45,"(C++)",113
+"46","https://www.seek.com.au/job/33021982","Data Scientist","TicToc Online Pty Ltd","Adelaide","2017-03-14T13:01:54Z","NA","NA",46,"Phd",0
+"47","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",47,"Python",2
+"48","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",48,"programming",0
+"49","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",49,"analytics",6
+"50","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",50,"mathematics",0
+"51","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",51,"machine learning",1
+"52","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",52,"team",3
+"53","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",53,"Cooperation",0
+"54","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",54,"statistics",0
+"55","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",55,"SQL",2
+"56","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",56,"communication",1
+"57","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",57,"big data",0
+"58","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",58,"design",0
+"59","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",59,"visualization",0
+"60","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",60,"Hadoop",0
+"61","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",61,"Java",0
+"62","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",62,"research",0
+"63","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",63,"creative",0
+"64","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",64,"MATLAB",0
+"65","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",65,"SAS",1
+"66","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",66," R ",0
+"67","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",67,"Modelling",0
+"68","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",68,"(C++)",110
+"69","https://www.seek.com.au/job/33013551","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-13T22:35:35Z","NA","NA",69,"Phd",0
+"70","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",70,"Python",5
+"71","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",71,"programming",0
+"72","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",72,"analytics",2
+"73","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",73,"mathematics",0
+"74","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",74,"machine learning",0
+"75","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",75,"team",3
+"76","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",76,"Cooperation",0
+"77","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",77,"statistics",0
+"78","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",78,"SQL",0
+"79","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",79,"communication",1
+"80","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",80,"big data",0
+"81","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",81,"design",0
+"82","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",82,"visualization",0
+"83","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",83,"Hadoop",0
+"84","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",84,"Java",0
+"85","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",85,"research",0
+"86","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",86,"creative",0
+"87","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",87,"MATLAB",0
+"88","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",88,"SAS",0
+"89","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",89," R ",0
+"90","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",90,"Modelling",0
+"91","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",91,"(C++)",115
+"92","https://www.seek.com.au/job/32849000","Senior Data Scientist - Python - Scikit - AI - Machine Learning -Top Tier Client","Tardis Group","Sydney","2017-03-13T22:58:14Z","NA","NA",92,"Phd",0
+"93","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",93,"Python",2
+"94","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",94,"programming",0
+"95","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",95,"analytics",5
+"96","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",96,"mathematics",0
+"97","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",97,"machine learning",4
+"98","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",98,"team",5
+"99","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",99,"Cooperation",0
+"100","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",100,"statistics",2
+"101","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",101,"SQL",1
+"102","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",102,"communication",0
+"103","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",103,"big data",0
+"104","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",104,"design",2
+"105","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",105,"visualization",0
+"106","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",106,"Hadoop",0
+"107","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",107,"Java",0
+"108","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",108,"research",1
+"109","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",109,"creative",0
+"110","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",110,"MATLAB",0
+"111","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",111,"SAS",0
+"112","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",112," R ",1
+"113","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",113,"Modelling",0
+"114","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",114,"(C++)",109
+"115","https://www.seek.com.au/job/33011765","Data Scientist | Digital Analytics ","Bluefin Resources Pty Limited","Sydney","2017-03-13T08:32:17Z","NA","NA",115,"Phd",0
+"116","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",116,"Python",0
+"117","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",117,"programming",0
+"118","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",118,"analytics",4
+"119","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",119,"mathematics",0
+"120","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",120,"machine learning",1
+"121","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",121,"team",1
+"122","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",122,"Cooperation",0
+"123","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",123,"statistics",0
+"124","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",124,"SQL",0
+"125","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",125,"communication",1
+"126","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",126,"big data",0
+"127","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",127,"design",0
+"128","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",128,"visualization",0
+"129","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",129,"Hadoop",0
+"130","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",130,"Java",0
+"131","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",131,"research",0
+"132","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",132,"creative",4
+"133","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",133,"MATLAB",0
+"134","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",134,"SAS",0
+"135","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",135," R ",0
+"136","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",136,"Modelling",0
+"137","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",137,"(C++)",109
+"138","https://www.seek.com.au/job/33007644","Senior Data Scientist","TRS - IT & Communications","Sydney","2017-03-13T02:00:24Z","NA","NA",138,"Phd",0
+"139","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",139,"Python",4
+"140","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",140,"programming",0
+"141","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",141,"analytics",5
+"142","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",142,"mathematics",0
+"143","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",143,"machine learning",0
+"144","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",144,"team",1
+"145","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",145,"Cooperation",0
+"146","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",146,"statistics",0
+"147","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",147,"SQL",0
+"148","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",148,"communication",0
+"149","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",149,"big data",0
+"150","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",150,"design",0
+"151","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",151,"visualization",0
+"152","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",152,"Hadoop",11
+"153","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",153,"Java",3
+"154","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",154,"research",0
+"155","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",155,"creative",0
+"156","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",156,"MATLAB",0
+"157","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",157,"SAS",0
+"158","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",158," R ",1
+"159","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",159,"Modelling",0
+"160","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",160,"(C++)",119
+"161","https://www.seek.com.au/job/33002204","Data Scientist with skill ODI and Cloudera Hadoop tools(Utilities)- Melbourne","Silverlink Technologies Pty Ltd","Melbourne","2017-03-10T17:20:36Z","NA","NA",161,"Phd",0
+"162","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",162,"Python",2
+"163","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",163,"programming",0
+"164","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",164,"analytics",2
+"165","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",165,"mathematics",0
+"166","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",166,"machine learning",0
+"167","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",167,"team",1
+"168","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",168,"Cooperation",0
+"169","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",169,"statistics",0
+"170","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",170,"SQL",0
+"171","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",171,"communication",2
+"172","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",172,"big data",1
+"173","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",173,"design",0
+"174","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",174,"visualization",0
+"175","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",175,"Hadoop",1
+"176","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",176,"Java",0
+"177","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",177,"research",0
+"178","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",178,"creative",0
+"179","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",179,"MATLAB",0
+"180","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",180,"SAS",1
+"181","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",181," R ",1
+"182","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",182,"Modelling",0
+"183","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",183,"(C++)",110
+"184","https://www.seek.com.au/job/32981112","Data Scientist | Sydney | Permanent | Broad Industry Alignment","KAPiTAL Consulting","Sydney","2017-03-08T06:35:51Z","NA","NA",184,"Phd",0
+"185","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",185,"Python",4
+"186","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",186,"programming",0
+"187","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",187,"analytics",6
+"188","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",188,"mathematics",0
+"189","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",189,"machine learning",0
+"190","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",190,"team",2
+"191","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",191,"Cooperation",0
+"192","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",192,"statistics",0
+"193","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",193,"SQL",6
+"194","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",194,"communication",0
+"195","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",195,"big data",0
+"196","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",196,"design",0
+"197","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",197,"visualization",0
+"198","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",198,"Hadoop",0
+"199","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",199,"Java",0
+"200","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",200,"research",0
+"201","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",201,"creative",0
+"202","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",202,"MATLAB",0
+"203","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",203,"SAS",4
+"204","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",204," R ",2
+"205","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",205,"Modelling",0
+"206","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",206,"(C++)",123
+"207","https://www.seek.com.au/job/32981361","Lead Data Scientist (Customer Marketing)","Correlate Resources","Sydney","2017-03-08T07:00:32Z","NA","NA",207,"Phd",0
+"208","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",208,"Python",0
+"209","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",209,"programming",0
+"210","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",210,"analytics",4
+"211","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",211,"mathematics",0
+"212","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",212,"machine learning",0
+"213","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",213,"team",0
+"214","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",214,"Cooperation",0
+"215","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",215,"statistics",1
+"216","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",216,"SQL",0
+"217","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",217,"communication",0
+"218","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",218,"big data",0
+"219","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",219,"design",0
+"220","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",220,"visualization",0
+"221","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",221,"Hadoop",0
+"222","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",222,"Java",0
+"223","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",223,"research",0
+"224","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",224,"creative",1
+"225","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",225,"MATLAB",0
+"226","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",226,"SAS",0
+"227","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",227," R ",0
+"228","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",228,"Modelling",0
+"229","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",229,"(C++)",108
+"230","https://www.seek.com.au/job/32975869","Mid-Level Data Scientist; Data Analyst","Harvey Nash","Sydney","2017-03-08T00:43:26Z","NA","NA",230,"Phd",0
+"231","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",231,"Python",1
+"232","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",232,"programming",0
+"233","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",233,"analytics",2
+"234","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",234,"mathematics",0
+"235","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",235,"machine learning",1
+"236","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",236,"team",1
+"237","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",237,"Cooperation",0
+"238","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",238,"statistics",0
+"239","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",239,"SQL",1
+"240","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",240,"communication",0
+"241","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",241,"big data",0
+"242","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",242,"design",0
+"243","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",243,"visualization",0
+"244","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",244,"Hadoop",0
+"245","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",245,"Java",0
+"246","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",246,"research",0
+"247","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",247,"creative",0
+"248","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",248,"MATLAB",0
+"249","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",249,"SAS",0
+"250","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",250," R ",0
+"251","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",251,"Modelling",0
+"252","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",252,"(C++)",103
+"253","https://www.seek.com.au/job/32981634","Senior Data Scientist","Hudson","Sydney","2017-03-08T07:16:56Z","NA","NA",253,"Phd",0
+"254","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",254,"Python",2
+"255","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",255,"programming",0
+"256","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",256,"analytics",6
+"257","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",257,"mathematics",0
+"258","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",258,"machine learning",1
+"259","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",259,"team",3
+"260","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",260,"Cooperation",0
+"261","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",261,"statistics",0
+"262","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",262,"SQL",2
+"263","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",263,"communication",1
+"264","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",264,"big data",0
+"265","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",265,"design",0
+"266","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",266,"visualization",0
+"267","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",267,"Hadoop",0
+"268","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",268,"Java",0
+"269","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",269,"research",0
+"270","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",270,"creative",0
+"271","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",271,"MATLAB",0
+"272","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",272,"SAS",1
+"273","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",273," R ",0
+"274","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",274,"Modelling",0
+"275","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",275,"(C++)",110
+"276","https://www.seek.com.au/job/32974728","Data Scientist | Brisbane Based","Bluefin Resources Pty Limited","Brisbane","2017-03-07T23:19:56Z","NA","NA",276,"Phd",0
+"277","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",277,"Python",1
+"278","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",278,"programming",0
+"279","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",279,"analytics",2
+"280","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",280,"mathematics",0
+"281","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",281,"machine learning",4
+"282","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",282,"team",4
+"283","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",283,"Cooperation",0
+"284","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",284,"statistics",1
+"285","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",285,"SQL",1
+"286","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",286,"communication",0
+"287","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",287,"big data",0
+"288","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",288,"design",0
+"289","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",289,"visualization",0
+"290","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",290,"Hadoop",0
+"291","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",291,"Java",1
+"292","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",292,"research",0
+"293","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",293,"creative",1
+"294","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",294,"MATLAB",0
+"295","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",295,"SAS",0
+"296","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",296," R ",0
+"297","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",297,"Modelling",0
+"298","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",298,"(C++)",117
+"299","https://www.seek.com.au/job/32976385","Lead Data Scientist / Data Scientist Manager  - Bangkok","Big Wednesday","Sydney","2017-03-08T01:09:59Z","NA","NA",299,"Phd",0
+"300","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",300,"Python",1
+"301","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",301,"programming",0
+"302","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",302,"analytics",2
+"303","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",303,"mathematics",0
+"304","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",304,"machine learning",2
+"305","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",305,"team",0
+"306","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",306,"Cooperation",0
+"307","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",307,"statistics",1
+"308","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",308,"SQL",1
+"309","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",309,"communication",0
+"310","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",310,"big data",0
+"311","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",311,"design",0
+"312","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",312,"visualization",0
+"313","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",313,"Hadoop",0
+"314","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",314,"Java",1
+"315","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",315,"research",0
+"316","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",316,"creative",1
+"317","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",317,"MATLAB",0
+"318","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",318,"SAS",0
+"319","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",319," R ",0
+"320","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",320,"Modelling",0
+"321","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",321,"(C++)",115
+"322","https://www.seek.com.au/job/32966573","Data Scientist / Machine Learning Expert - Bangkok, Thailand","Big Wednesday","Perth","2017-03-07T01:50:01Z","NA","NA",322,"Phd",0
+"323","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",323,"Python",1
+"324","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",324,"programming",1
+"325","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",325,"analytics",5
+"326","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",326,"mathematics",0
+"327","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",327,"machine learning",1
+"328","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",328,"team",2
+"329","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",329,"Cooperation",0
+"330","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",330,"statistics",1
+"331","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",331,"SQL",1
+"332","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",332,"communication",0
+"333","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",333,"big data",1
+"334","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",334,"design",0
+"335","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",335,"visualization",0
+"336","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",336,"Hadoop",0
+"337","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",337,"Java",0
+"338","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",338,"research",0
+"339","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",339,"creative",0
+"340","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",340,"MATLAB",0
+"341","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",341,"SAS",0
+"342","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",342," R ",1
+"343","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",343,"Modelling",0
+"344","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",344,"(C++)",117
+"345","https://www.seek.com.au/job/32965320","Data Scientist","Eden Ritchie Recruitment","Brisbane","2017-03-07T00:23:40Z","NA","NA",345,"Phd",0
+"346","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",346,"Python",1
+"347","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",347,"programming",1
+"348","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",348,"analytics",2
+"349","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",349,"mathematics",0
+"350","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",350,"machine learning",1
+"351","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",351,"team",3
+"352","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",352,"Cooperation",0
+"353","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",353,"statistics",0
+"354","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",354,"SQL",1
+"355","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",355,"communication",3
+"356","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",356,"big data",1
+"357","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",357,"design",0
+"358","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",358,"visualization",0
+"359","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",359,"Hadoop",0
+"360","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",360,"Java",1
+"361","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",361,"research",1
+"362","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",362,"creative",0
+"363","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",363,"MATLAB",0
+"364","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",364,"SAS",0
+"365","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",365," R ",0
+"366","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",366,"Modelling",0
+"367","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",367,"(C++)",110
+"368","https://www.seek.com.au/job/32959733","Data Scientist","HCM Australia","Sydney","2017-03-06T05:13:22Z","NA","NA",368,"Phd",0
+"369","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",369,"Python",2
+"370","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",370,"programming",0
+"371","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",371,"analytics",2
+"372","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",372,"mathematics",0
+"373","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",373,"machine learning",1
+"374","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",374,"team",2
+"375","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",375,"Cooperation",0
+"376","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",376,"statistics",1
+"377","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",377,"SQL",1
+"378","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",378,"communication",1
+"379","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",379,"big data",0
+"380","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",380,"design",1
+"381","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",381,"visualization",0
+"382","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",382,"Hadoop",0
+"383","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",383,"Java",1
+"384","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",384,"research",0
+"385","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",385,"creative",0
+"386","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",386,"MATLAB",0
+"387","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",387,"SAS",0
+"388","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",388," R ",0
+"389","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",389,"Modelling",0
+"390","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",390,"(C++)",108
+"391","https://www.seek.com.au/job/32960276","Data Scientist/ Data Analytics Consultant","SKL","Brisbane","2017-03-06T05:45:32Z","NA","NA",391,"Phd",0
+"392","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",392,"Python",1
+"393","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",393,"programming",0
+"394","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",394,"analytics",4
+"395","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",395,"mathematics",0
+"396","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",396,"machine learning",0
+"397","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",397,"team",7
+"398","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",398,"Cooperation",0
+"399","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",399,"statistics",1
+"400","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",400,"SQL",8
+"401","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",401,"communication",0
+"402","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",402,"big data",2
+"403","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",403,"design",2
+"404","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",404,"visualization",0
+"405","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",405,"Hadoop",1
+"406","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",406,"Java",1
+"407","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",407,"research",0
+"408","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",408,"creative",0
+"409","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",409,"MATLAB",0
+"410","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",410,"SAS",1
+"411","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",411," R ",1
+"412","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",412,"Modelling",1
+"413","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",413,"(C++)",122
+"414","https://www.seek.com.au/job/32960181","Senior Data Analyst/Data Scientist","Readify","Brisbane","2017-03-06T05:39:00Z","NA","NA",414,"Phd",0
+"415","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",415,"Python",1
+"416","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",416,"programming",0
+"417","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",417,"analytics",4
+"418","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",418,"mathematics",0
+"419","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",419,"machine learning",0
+"420","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",420,"team",7
+"421","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",421,"Cooperation",0
+"422","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",422,"statistics",1
+"423","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",423,"SQL",8
+"424","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",424,"communication",0
+"425","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",425,"big data",2
+"426","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",426,"design",2
+"427","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",427,"visualization",0
+"428","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",428,"Hadoop",1
+"429","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",429,"Java",1
+"430","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",430,"research",0
+"431","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",431,"creative",0
+"432","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",432,"MATLAB",0
+"433","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",433,"SAS",1
+"434","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",434," R ",1
+"435","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",435,"Modelling",1
+"436","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",436,"(C++)",124
+"437","https://www.seek.com.au/job/32960180","Senior Data Analyst/Data Scientist","Readify","Melbourne","2017-03-06T05:39:00Z","NA","NA",437,"Phd",0
+"438","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",438,"Python",0
+"439","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",439,"programming",0
+"440","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",440,"analytics",3
+"441","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",441,"mathematics",0
+"442","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",442,"machine learning",0
+"443","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",443,"team",4
+"444","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",444,"Cooperation",0
+"445","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",445,"statistics",0
+"446","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",446,"SQL",5
+"447","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",447,"communication",0
+"448","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",448,"big data",2
+"449","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",449,"design",2
+"450","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",450,"visualization",0
+"451","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",451,"Hadoop",0
+"452","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",452,"Java",1
+"453","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",453,"research",0
+"454","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",454,"creative",0
+"455","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",455,"MATLAB",0
+"456","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",456,"SAS",0
+"457","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",457," R ",0
+"458","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",458,"Modelling",0
+"459","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",459,"(C++)",123
+"460","https://www.seek.com.au/job/32960179","Senior Data Analyst/Data Scientist","Readify","Perth","2017-03-06T05:39:00Z","NA","NA",460,"Phd",0

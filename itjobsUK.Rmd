@@ -1,0 +1,104 @@
+---
+title: "Data607Project3"
+author: "Ann Liu-Ferrara"
+date: "March 17, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What are the most valuable skills as a Data Scientist?
+
+```{r}
+library(bitops)
+library(RCurl)
+library(jsonlite)
+library(stringr)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(rvest)
+
+urlfn <- function(i) {
+  url <- paste("https://www.itjobswatch.co.uk/search?q=Data+Scientist&start=", i, sep="")
+  return(url)
+}
+
+mainURLs <- sapply(seq(0, 60, by = 15), urlfn)
+# mainURLs <- sapply(0:0, urlfn)
+SearchTerm <- 'Data Scientist'
+Currency <- 'Pound'
+
+# Main Table
+allPagesCtr <- 1
+for(mainURL in mainURLs) {
+  print(paste0("Processing Page ", allPagesCtr))
+  htmlF <- read_html(mainURL, simplifyVector = TRUE)
+  
+  Salary <- htmlF %>% 
+  html_nodes('.jobDetails div:nth-child(1) span')  %>% 
+  html_text()
+  
+  Location <- htmlF %>% 
+    html_nodes('.location') %>% 
+      html_text()
+
+  surl <- htmlF %>% 
+      html_nodes('.showMore') %>% 
+        html_attrs() 
+  # concatenate sub-url to main url
+  surl <- unlist(lapply(surl, `[[`, 1))
+  surl <- paste0('https://www.itjobswatch.co.uk', surl)
+    
+  Title <- htmlF %>% 
+    html_nodes('.jobTitle a') %>% 
+      html_text() 
+
+  Company <- htmlF %>%
+    html_nodes('.company span') %>%
+      html_text()
+  
+  mainDF <- data.frame(Salary = Salary, Location = Location, Title = Title) 
+  mainDF$JobLink <- surl
+  mainDF$SearchTerm <- SearchTerm
+  mainDF$Currency <- Currency
+  mainDF$Company <- Company
+  mainDF$MainSite <- mainURL
+  mainDF[] <- lapply(mainDF, as.character)
+  
+  # Sub Table
+  jobskills <- readLines('https://raw.githubusercontent.com/DATA607/Project3/master/jobskills.txt')
+  mainCtr <- 1
+  subdf <- ldply(surl, function(suburl) {
+    df1 <- data.frame(matrix(ncol = 4, nrow = 5))
+    colnames(df1) <- c("Id", "SubUrl", "Skill", "Count")
+    text <- readLines(suburl, n = -1)
+    text <- str_c(text, collapse = "")
+    countr<- 1
+    for (skill in jobskills) {
+      skillcount <- lapply(skill, str_count, string=text)
+      df1[countr,1] <- mainCtr
+      df1[countr,2] <- suburl
+      df1[countr,3] <- skill
+      df1[countr,4] <- skillcount
+      mainCtr <<-  mainCtr + 1
+      countr <- countr + 1
+    }
+    df1
+  })
+
+  options(warn=-1)
+  
+  allPagesCtr <<- allPagesCtr + 1
+  combinedDF <- data.frame()
+  combinedDF <- inner_join(x=mainDF, y=subdf, by=c("JobLink" = "SubUrl") )
+  # combinedDF <- str_replace_all(combinedDF, "[\t\r\n]" , "")
+  print(paste0("Created CombinedDF with dimensions=",dim(combinedDF)))
+  
+  # reorder columns
+  combinedDF <- combinedDF[c(9,	8,	5,	4,	6,	1,	2,	5,	10, 11)]
+  write.table(combinedDF, file = "itjobsUK.csv", append=TRUE, row.names=FALSE, quote=TRUE, sep=",")
+}
+```

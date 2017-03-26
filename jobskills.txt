@@ -6,7 +6,6 @@ machine learning
 team
 Cooperation
 statistics
-mathematics
 SQL
 communication
 big data
@@ -17,9 +16,9 @@ Java
 research
 creative
 MATLAB
-predictive analytics
 SAS
  R 
  R. 
 Modelling
 C++
+phd

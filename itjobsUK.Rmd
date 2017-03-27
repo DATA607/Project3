@@ -70,12 +70,13 @@ for(mainURL in mainURLs) {
   
   # Sub Table
   jobskills <- readLines('https://raw.githubusercontent.com/DATA607/Project3/master/jobskills.txt')
+  jobskills <- tolower(jobskills)
   mainCtr <- 1
   subdf <- ldply(surl, function(suburl) {
     df1 <- data.frame(matrix(ncol = 4, nrow = 5))
     colnames(df1) <- c("Id", "SubUrl", "Skill", "Count")
     text <- readLines(suburl, n = -1)
-    text <- str_c(text, collapse = "")
+    text <- tolower(str_c(text, collapse = ""))
     countr<- 1
     for (skill in jobskills) {
       skillcount <- lapply(skill, str_count, string=text)
@@ -94,11 +95,10 @@ for(mainURL in mainURLs) {
   allPagesCtr <<- allPagesCtr + 1
   combinedDF <- data.frame()
   combinedDF <- inner_join(x=mainDF, y=subdf, by=c("JobLink" = "SubUrl") )
-  # combinedDF <- str_replace_all(combinedDF, "[\t\r\n]" , "")
   print(paste0("Created CombinedDF with dimensions=",dim(combinedDF)))
   
   # reorder columns
-  combinedDF <- combinedDF[c(9,	8,	5,	4,	6,	1,	2,	5,	10, 11)]
+  combinedDF <- combinedDF[c(9,	8,	5,	4,	6,	1,	2,	3,	10, 11)]
   write.table(combinedDF, file = "itjobsUK.csv", append=TRUE, row.names=FALSE, quote=TRUE, sep=",")
 }
 ```

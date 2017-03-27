@@ -1,0 +1,41 @@
+---
+title: "Data607Project3"
+author: "Ann Liu-Ferrara"
+date: "March 17, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What are the most valuable skills as a Data Scientist?
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+
+uk <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/itJobsUK.csv")
+uk1 <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/itjobsUK1.csv")
+
+uk <- unique(rbind(uk1, uk))
+write.csv(uk, file = "uk.csv")
+
+df <- read.csv("uk.csv", stringsAsFactors = FALSE) %>% 
+      select(SearchTerm, Salary, Location, Skill, Count, Title) 
+
+df$salaryFrom <- unlist(str_extract_all(df$Salary, "\\(?(\\d{5})?\\)?(-| )?\\d{5}"))[1]
+df$salaryTo <- unlist(str_extract_all(df$Salary, "\\(?(\\d{5})?\\)?(-| )?\\d{5}"))[2]
+df[, c(7:8)] <- sapply(df[, c(7:8)], as.numeric)
+
+dim(df)
+head(df)
+
+
+    
+    
+    
+    
+
+```

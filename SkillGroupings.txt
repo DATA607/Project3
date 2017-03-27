@@ -1,0 +1,22 @@
+Python,Statistical Programming
+programming,Programming
+analytics,Analytics
+mathematics,Statistics
+machine learning,Statistics
+team,Soft Skills
+Cooperation,Soft Skills
+statistics,Statistics
+SQL,Programming
+communication,Soft Skills
+big data,Programming
+design,Programming
+visualization,Statistical Programming
+Hadoop,Programming
+Java,Programming
+research,Statistics
+creative,Soft Skills
+MATLAB,Statistical Programming
+SAS,Statistical Programming
+ R ,Statistical Programming
+Modelling,Analytics
+Phd,Phd

@@ -16,7 +16,7 @@ library(knitr)
 library(ggplot2)
 library(plotly)
 
-australiajob <- read.csv("~/seekJobs.csv")
+australiajob <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/seekJobs.csv")
 glimpse(australiajob)
 
 ```
@@ -54,7 +54,7 @@ geom_bar(data=audftop3, aes(x=Skills, y=audftop3$TotalNumber, fill='Skills'), st
 ```
 
 
-# Which states have most number of jobs for data scientist in Australia?
+# Which cities have most number of jobs for data scientist in Australia?
 ```{r }
 
 audflo <- aggregate(australiajob$Count, list(australiajob$location), sum)

@@ -31,21 +31,25 @@ unique(australiajob$Skill)
 unique(australiajob$Count)
 audf <- aggregate(australiajob$Count, list(australiajob$Skill), sum)
 colnames(audf)<- c("Skills","TotalNumber")
-audf<-arrange(audf, desc(TotalNumber))
-audf
 
+audftop<-arrange(audf, desc(TotalNumber))
+audftop<-audftop[2:len,]
+audftop<-arrange(audftop, desc(TotalNumber))
+audftop
 ```
 
 # What is the most total number of skills in jobs description?
 ```{r }
-names <- audf$Skills
-barplot(audf$TotalNumber,main="Total number of skills", horiz=TRUE, names.arg=names, las=1, cex.axis=0.5, cex.names = 0.5)
-# Top three of skills are "analysis", "team" and "SQL"
+names <- audftop$Skills
+barplot(audftop$TotalNumber,main="Total number of skills", horiz=TRUE, names.arg=names, las=1, cex.axis=0.5, cex.names = 0.5)
+# Top three of skills are "team", "SQL" and "Python".
 ```
 
 ```{r }
+audftop3<-audftop[1:3,]
+
 ggplot() +
-geom_bar(data=audf, aes(x=Skills, y=audf$TotalNumber, fill='Skills'), stat = "identity")
+geom_bar(data=audftop3, aes(x=Skills, y=audftop3$TotalNumber, fill='Skills'), stat = "identity")
 
 ```
 

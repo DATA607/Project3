@@ -1,0 +1,83 @@
+---
+title: "Seekanalysis"
+author: "jim lung"
+date: "03-26-2017"
+output: html_document
+---
+
+This part is the analysis what is the most important skills requried for data scientists at Austrialia.
+
+Using the code from: https://www.seek.com.au/
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(knitr)
+library(ggplot2)
+library(plotly)
+
+australiajob <- read.csv("~/seekJobs.csv")
+glimpse(australiajob)
+
+```
+
+
+# Aggregation
+
+# What is the most important skills required for data Scientists?
+```{r }
+
+unique(australiajob$Skill)
+unique(australiajob$Count)
+audf <- aggregate(australiajob$Count, list(australiajob$Skill), sum)
+colnames(audf)<- c("Skills","TotalNumber")
+audf<-arrange(audf, desc(TotalNumber))
+audf
+
+```
+
+# What is the most total number of skills in jobs description?
+```{r }
+names <- audf$Skills
+barplot(audf$TotalNumber,main="Total number of skills", horiz=TRUE, names.arg=names, las=1, cex.axis=0.5, cex.names = 0.5)
+# Top three of skills are "analysis", "team" and "SQL"
+```
+
+```{r }
+ggplot() +
+geom_bar(data=audf, aes(x=Skills, y=audf$TotalNumber, fill='Skills'), stat = "identity")
+
+```
+
+
+# Which states have most number of jobs for data scientist in Australia?
+```{r }
+
+audflo <- aggregate(australiajob$Count, list(australiajob$location), sum)
+colnames(audflo)<- c("Location","TotalNumber")
+audflo<-arrange(audflo, desc(TotalNumber))
+audflo
+# Most number of jobs is located at Sydney of Australia
+```
+
+# Where have the most total number of jobs for data scientists in Australia?
+```{r }
+names <- audflo$Location
+barplot(audflo$TotalNumber,main="Location for number of jobs", horiz=TRUE, names.arg=names, las=1, cex.axis=0.5, cex.names = 0.5)
+
+```
+
+```{r }
+ggplot() +
+geom_bar(data=audflo, aes(x=Location, y=TotalNumber, fill='Location'), stat = "identity")
+
+```
+
+
+
+Result:
+1. Top three of skills required for data scientists are "analysis", "team" and "SQL"
+
+2. Most number of jobs is located at Sydney of Australia.
+
+

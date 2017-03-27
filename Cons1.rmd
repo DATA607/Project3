@@ -1,0 +1,150 @@
+---
+title: "DATA 607, Group 4 : What are top Data Science skills? (Consolidated Analysis)"
+author: "JM"
+date: "March 26, 2017"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: spacelab
+    highlight: tango
+    code_folding: hide
+---
+## Consolidated Analysis
+```{r eval=FALSE}
+install.packages("rmarkdown") # Make cool dynamic documents
+install.packages("knitr") # Run R Code Chunks
+install.packages("ggplot2") # For plotting
+install.packages("DT") # Interactive HTML tables
+install.packages("tidyverse") # Tidy Universe
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(stringr)
+library(dplyr)
+library(ggplot2)
+library(maps)
+library(mapdata)
+library(knitr)
+library("rmarkdown") 
+library("DT") 
+```
+
+### Read Consolidated Data from our Repository
+```{r}
+ConsData <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/dataframe.csv", stringsAsFactors = FALSE)
+# Some Filtering of Data - C++ and Analytics as the data against these is spurious
+ConsData <- ConsData %>% filter(skill != 'C++') %>% filter(skill != '(C++)') %>% filter(skill != 'analytics') %>% filter(skill != 'Analytics')
+ConsData$count <- as.integer(ConsData$count)
+```
+```{r}
+datatable(head(ConsData,3))
+```
+
+
+#### A sample of where our data comes from 
+```{r}
+
+RecordCounts <- ConsData %>% group_by(location) %>% summarise(Number=n()) 
+datatable(RecordCounts)
+```
+
+
+### What are Top Skills
+
+#### We are checking what are top sub-skills which data scientists. Later on we would look at Groupings of Skills.
+```{r}
+TopSkillsData <- ConsData %>% group_by(skill)  %>% summarise(Count=sum(count)) %>% arrange(desc(Count))
+
+datatable(TopSkillsData)
+```
+
+
+#### A chart to represent the skills
+```{r}
+
+TopSkillsData <- head(TopSkillsData, 10)
+TopSkillsData <- TopSkillsData %>% arrange(Count)
+barplot(TopSkillsData$Count, main="Top 10 Skills", horiz=TRUE,
+  names.arg=TopSkillsData$skill, las=1, cex.axis = 0.5, cex.names=0.5)
+
+```
+
+
+### What are Top Skills Groups
+#### Download the Skill Groups Meta File
+```{r}
+SkillGroups <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/SkillGroupings.txt", stringsAsFactors = FALSE, header = FALSE)
+colnames(SkillGroups) <- c("Skill", "Group")
+datatable(SkillGroups)
+```
+
+
+#### Join with Skill Counts data
+##### C++ and analytics are spurious data for us, so these would be removed.
+```{r}
+TopSkillsGroupData <- ConsData %>% group_by(skill)  %>% summarise(Count=sum(count)) %>% arrange(desc(Count))
+
+TopSkillsGroupData <- inner_join(TopSkillsGroupData, SkillGroups, by=c("skill" = "Skill"))
+TopSkillsGroupData <- TopSkillsGroupData %>% group_by(Group) %>% summarise(GroupedCount=sum(Count)) %>% arrange(desc(GroupedCount))
+datatable(TopSkillsGroupData)
+```
+
+#### A chart to represent Top Skill Groups
+```{r}
+TopSkillsGroupData <- TopSkillsGroupData %>% arrange(GroupedCount)
+barplot(TopSkillsGroupData$GroupedCount, main="Top Skills by Groups", horiz=FALSE,
+  names.arg=TopSkillsGroupData$Group, las=1, cex.axis = 0.5, cex.names=0.5)
+
+```
+
+
+### Some Analytical questions
+
+
+### Which cities values the Programming most for Data Scientists?
+
+```{r}
+TopSkillsGroupData1 <- inner_join(ConsData, SkillGroups, by=c("skill" = "Skill"))
+TopSkillsGroupDataProgByLocation <- TopSkillsGroupData1 %>% filter(Group=="Programming") %>% group_by(location) %>% summarise(Count=sum(count)) %>% arrange(desc(Count))
+datatable(TopSkillsGroupDataProgByLocation)
+
+```
+
+
+### If I am a programmer, what is the next best skill I can learn?
+```{r}
+TopSkillsGroupData2 <- inner_join(ConsData, SkillGroups, by=c("skill" = "Skill"))
+TopSkillsGroupData2 <- TopSkillsGroupData2 %>% filter(Group!="Programming")
+TopNonProgSkills <- TopSkillsGroupData2 %>% group_by(skill) %>% summarise(Count=sum(count)) %>% arrange(desc(Count))
+datatable(TopNonProgSkills)
+
+```
+
+### NY vs SF vs London Comparison for Top 4 skills
+```{r}
+
+aggDataLocNY <- ConsData %>% filter(location == "New York, NY")
+aggDataLocNY <- aggDataLocNY %>% group_by(skill) %>% summarise(totalCount=sum(count))
+aggDataLocNY <- aggDataLocNY  %>% arrange(desc(totalCount))
+aggDataLocNY <- head(aggDataLocNY, 4)
+
+aggDataLocSF <- ConsData %>% filter(location == "San Francisco, CA")
+aggDataLocSF <- aggDataLocSF %>% group_by(skill) %>% summarise(totalCount=sum(count))
+aggDataLocSF <- aggDataLocSF  %>% arrange(desc(totalCount))
+aggDataLocSF <- head(aggDataLocSF, 4)
+
+aggDataLocLdn <- ConsData %>% filter(location == "London")
+aggDataLocLdn <- aggDataLocLdn %>% group_by(skill) %>% summarise(totalCount=sum(count))
+aggDataLocLdn <- aggDataLocLdn  %>% arrange(desc(totalCount))
+aggDataLocLdn <- head(aggDataLocLdn, 4)
+
+ggplot() + 
+geom_bar(data=aggDataLocNY, aes(x=skill, y=totalCount, fill='#999999'), stat = "identity") + 
+geom_bar(data=aggDataLocSF, aes(x=skill, y=totalCount, fill='#E69F00'), stat = "identity") +
+geom_bar(data=aggDataLocLdn, aes(x=skill, y=totalCount, fill='#A69F55'), stat = "identity") 
+#+ scale_fill_manual(values=c("#999999", "#E69F00"), labels=c("NY", "SF"))
+
+
+```

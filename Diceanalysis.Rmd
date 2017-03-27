@@ -15,39 +15,30 @@ dice_job <- read.csv("https://raw.githubusercontent.com/DATA607/Project3/master/
 # head(dice_job)
 # View(dice_job)
 nrow(dice_job)
-# My dataset include 1250 jobs in data science.
+# My dataset include 1100 jobs in data science.
+View(dice_job)
 
 # Cleanup data
 colnames(dice_job)
 drops <- c("counter")
 dice_job <- dice_job[ , !(names(dice_job) %in% drops)]
-
+head(dice_job)
 
 # Research Question 1. What is the most needed skills in jobs in data science?
-df_1 <- select(dice_job, skill, count)
+df_1 <- select(dice_job, Skill, Count)
+head(df_1)
+
 
 # Group by skills and sum up the counts
-df_1 <- aggregate(df_1$count, by = list(Skills = df_1$skill), FUN = sum)
-View(df_1)
+df_1 <- aggregate(df_1$Count, by = list(Skills = df_1$Skill), FUN = sum)
+head(df_1)
 colnames(df_1)[2] <- "Frequency"
-arrange(df_1, desc(Frequency))
-
-# Combine R and R.$ predictive analytics and analytics???
+df_top <- arrange(df_1, desc(Frequency))
+df_top8 <- df_top[1:8, ]
+df_top8
 
 # plot the counts vs. skills
-plot(df_1, 
-     main = "What skills listed most frequently in job description?", 
-     xlab = "Skills", 
-     ylab = "Frequency")
-
-# Let's see how it looks like when excluding C++
-# Delete C++ by filter rows
-df_noc <- filter(df_1, df_1$Skills != "C++")
-plot(df_noc, 
-     main = "What skills listed most frequently in job description? (excluding C++)", 
-     xlab = "Skills", 
-     ylab = "Frequency")
-ggplot(df_noc, aes(x = df_noc$Skills, y = df_noc$Frequency, group = 1)) +
+ggplot(df_top8, aes(x = df_top8$Skills, y = df_top8$Frequency, group = 1)) +
   geom_point() + geom_line()
 
 # Research Question 2. What area need most jobs in data science?
@@ -55,15 +46,17 @@ df_2 <- select(dice_job, X, location)
 colnames(df_2)[1] <- "number"
 df_2 <- aggregate(df_2$number, by = list(Location = df_2$location), FUN = sum)
 colnames(df_2)[2] <- "Total"
+head(df_2)
 df_2 <- filter(df_2, df_2$Total >= mean(df_2$Total))
-arrange(df_2, desc(Total))
-# plot the total of jobs vs. location - histogram
-barplot(df_2$Total, 
+df_2 <- arrange(df_2, desc(Total))
+df2_top3 <- df_2[1:3, ]
+# plot the total of jobs vs. location
+barplot(df2_top3$Total, 
         main = "Data Science Jobs vs. Location",
-        names.arg = df_2$Location,
-        ylab = "Total")
-# Top three cities that data science job in need are Richardson, New York City and Dallas.
-  
+        names.arg = df2_top3$Location,
+        ylab = "Total number of Jobs")
+
+
 
 ```
 

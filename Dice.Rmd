@@ -1,32 +1,23 @@
 ---
-title: "Project_3_Dice"
+title: "Dice"
 author: "Jenny"
 date: "March 26, 2017"
 output: html_document
 ---
 
-
-
-```{r setup, include=FALSE}
-install.packages("rvest", repos = "http://cran.us.r-project.org")
-install.packages("RCurl",repos = "http://cran.us.r-project.org")
-library(xml2)
+```{r setup, include=TRUE}
 library(bitops)
 library(RCurl)
 library(jsonlite)
 library(stringr)
-library(rvest)
 library(dplyr)
 library(plyr)
-library(RCurl)
-
 
 urlfn <- function(i) {
-  url <- paste("http://service.dice.com/api/rest/jobsearch/v1/simple.json?text=data+science&page=", i, sep="")
+  url <- paste("http://service.dice.com/api/rest/jobsearch/v1/simple.json?text=data+scientist&page=", i, sep="")
   return(url)
 }
-mainURL <- sapply(1:25, urlfn)
-head(mainURL)
+mainURLs <- sapply(1:20, urlfn)
 
 # Main Table
 allPagesCtr <- 1
@@ -38,37 +29,33 @@ for(mainURL in mainURLs) {
   mainDF <- mainJson$resultItemList
   
   # Sub Table
-  
   jobskills <- readLines("https://raw.githubusercontent.com/DATA607/Project3/master/jobskills.txt")
-  Suburls <- mainDF$detailUrl
+  jobskills <- tolower(jobskills)
+  Suburls <- mainDF$detailUrl 
   
-  
-  sub_df <- data.frame(counter, "xyz", "abd", 1)
-  names(sub_df) <- c("counter", "suburl", "skill", "count")
-  
-  counter <- 1
-  sub_df <- ldply(Suburls, function(suburl){
-    sub_df1 <- data.frame(counter, "suburl", "abd", 1)
-    names(sub_df1) <- c("counter", "suburl", "skill", "count")
+  mainCtr <- 1
+  subdf <- ldply(Suburls, function(suburl) {
+    df1 <- data.frame(matrix(ncol = 4, nrow = 5))
+    colnames(df1) <- c("Id", "SubUrl", "Skill", "Count")
     text <- readLines(suburl)
-    text <- str_c(text, collapse = "")
+    text <- tolower(str_c(text, collapse = ""))
+    countr<- 1
     for (skill in jobskills) {
-      counter <-  counter + 1
-      count <- lapply(skill, str_count, string=text)
-      sub_df1 <- data.frame(counter, suburl, skill, count)
-      names(sub_df1) <- c("counter", "suburl", "skill", "count")
-      sub_df2<- rbind(sub_df2, sub_df1)
+      skillcount <- lapply(skill, str_count, string=text)
+      df1[countr,1] <- mainCtr
+      df1[countr,2] <- suburl
+      df1[countr,3] <- skill
+      df1[countr,4] <- skillcount
+      mainCtr <<-  mainCtr + 1
+      countr <- countr + 1
     }
-    sub_df2
+    df1
   })
-  
+
   allPagesCtr <<- allPagesCtr + 1
-  combinedDF <- inner_join(x=mainDF, y=sub_df, by=c("detailUrl" = "suburl") )
+  combinedDF <- inner_join(x=mainDF, y=subdf, by=c("detailUrl" = "SubUrl") )
   print(paste0("Created CombinedDF with dimensions=",dim(combinedDF)))
-  write.csv(combinedDF, file = "C:/Users/jenny_000/Desktop/MSDA R/DATA 607/dice.csv", append=TRUE)
+  write.csv(combinedDF, file = "C:/Users/jenny_000/Desktop/MSDA R/DATA 607/dice_updated.csv", append=TRUE)
 }
-
-
 ```
-
 
